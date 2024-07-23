@@ -1,5 +1,5 @@
 ## Project Name: House Prices: Advanced Regression Techniques
-
-- ### The main aim of this project is to predict the house price based on various features which we will discuss as we go ahead
+![image](https://github.com/user-attachments/assets/763492ae-2cbb-4a95-bd75-6ff7d5d05bf8)
+- ### The main aim of this project is to implement a linear regression model to predict the price of house based on their square footage and number of bedrooms and bathroom
 - ### Dataset to downloaded from the below link
 ``` https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data ```
